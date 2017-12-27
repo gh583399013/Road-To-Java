@@ -56,9 +56,9 @@ public class VolatileMain {
     public static void main(String[] args) {
         VolatileMain service = new VolatileMain();
         //经测试不会出现相同的值
-        service.testVolatileCount();
+//        service.testVolatileCount();
 
         //经测试会拿到一样的值 比如同时拿到22 然后都打印23
-//        service.testSimpleCount();
+        service.testSimpleCount();
     }
 }
