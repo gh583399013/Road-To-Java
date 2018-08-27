@@ -13,6 +13,7 @@
     <module>java-middleware-logback</module>
     <module>java-middleware-lucene</module>
     <module>javaweb-demo</module>
+    <module>java-sort</module>
   </modules>
   <packaging>pom</packaging>
 
